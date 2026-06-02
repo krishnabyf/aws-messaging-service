@@ -3,3 +3,4 @@ __pycache__/
 .env
 *.pyc
 node_modules/
+n__pycache__/n*.py[cod]n.serverless/n*.zipnvenv/n.venv/n
